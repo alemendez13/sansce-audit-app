@@ -26,9 +26,18 @@ const count = ref(0)
     >, the official Vue + Vite starter
   </p>
   <p>
+<<<<<<< HEAD
     Install
     <a href="https://github.com/vuejs/language-tools" target="_blank">Volar</a>
     in your IDE for a better DX
+=======
+    Learn more about IDE Support for Vue in the
+    <a
+      href="https://vuejs.org/guide/scaling-up/tooling.html#ide-support"
+      target="_blank"
+      >Vue Docs Scaling up Guide</a
+    >.
+>>>>>>> 885b9278d05267d3bc542ad3d19f4e421a78ce5c
   </p>
   <p class="read-the-docs">Click on the Vite and Vue logos to learn more</p>
 </template>
@@ -37,4 +46,8 @@ const count = ref(0)
 .read-the-docs {
   color: #888;
 }
+<<<<<<< HEAD
 </style>
+=======
+</style>
+>>>>>>> 885b9278d05267d3bc542ad3d19f4e421a78ce5c
