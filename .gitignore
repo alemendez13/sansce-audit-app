@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Dependencies
 /node_modules
 
@@ -6,40 +5,19 @@
 /dist
 
 # Logs
-=======
-# Logs
-logs
-*.log
->>>>>>> 885b9278d05267d3bc542ad3d19f4e421a78ce5c
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
-<<<<<<< HEAD
 
 # Editor directories and files
 .idea
 .vscode
-=======
-lerna-debug.log*
-
-node_modules
-dist
-dist-ssr
-*.local
-
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
-.DS_Store
->>>>>>> 885b9278d05267d3bc542ad3d19f4e421a78ce5c
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
-<<<<<<< HEAD
 
 # Environment variables
 .env
@@ -48,5 +26,3 @@ dist-ssr
 
 # Temp files
 *.temp
-=======
->>>>>>> 885b9278d05267d3bc542ad3d19f4e421a78ce5c
